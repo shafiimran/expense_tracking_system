@@ -10,6 +10,7 @@ This project is an expense management system that consists of a Streamlit fronte
 - **tests/**: Contains the test cases for both frontend and backend.
 - **requirements.txt**: Lists the required Python packages.
 - **README.md**: Provides an overview and instructions for the project.
+- **start.bat**: running this file will directly run the webapp without any hassle
 
 
 ## Setup Instructions
@@ -30,4 +31,5 @@ This project is an expense management system that consists of a Streamlit fronte
 1. **Run the Streamlit app:**:   
    ```commandline
     streamlit run frontend/app.py
+
    ```
