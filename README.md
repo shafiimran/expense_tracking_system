@@ -32,5 +32,6 @@ This project is an expense management system that consists of a Streamlit fronte
    ```commandline
     streamlit run frontend/app.py
    ```
-   **Double click the 'start.bat' file to directly directly run the web app. You wont have to run the fastAPI and streamlit commands manually**
+   ** N.B: Double click the **'start.bat'** file to skip step 4 & 5. this will directly run the web app**
+
 
